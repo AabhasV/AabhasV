@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AabhasV
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning c++
+- 📫 How to reach me 
